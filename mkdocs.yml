@@ -1,0 +1,8 @@
+site_name: "springboot-test"
+site_description: "A test component for Spring Boot"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
