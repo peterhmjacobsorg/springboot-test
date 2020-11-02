@@ -3,6 +3,7 @@ site_description: "A test component for Spring Boot"
 
 nav:
   - Introduction: index.md
+  - Getting started: gettingstarted.md
 
 plugins:
   - techdocs-core
